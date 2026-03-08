@@ -61,23 +61,13 @@ sudo apt-get install ffmpeg
 
 ### 4. Configure Environment Variables
 
-1. Copy `example.env` to `.env`:
-```bash
-cp example.env .env
-```
-
-2. Edit `.env` and add your Spotify credentials:
+2. Create `.env` and add your Spotify credentials:
 ```env
 SPOTIPY_CLIENT_ID='your_client_id_here'
 SPOTIPY_CLIENT_SECRET='your_client_secret_here'
 ```
 
 ## Usage
-
-### Start the application:
-```bash
-python main.py
-```
 
 ### Main features:
 
@@ -121,11 +111,3 @@ python main.py
 ## License
 
 This project is open source.
-
-## Contributing
-
-Contributions are welcome. Please open an issue or pull request with your improvements.
-
----
-
-**Questions or problems?** Open an issue in the repository.
