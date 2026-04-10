@@ -1,4 +1,4 @@
-# MP3 Player
+# STREAMP3
 
 ![Version](https://img.shields.io/badge/version-1.2-blue)
 
